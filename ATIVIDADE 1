@@ -1,0 +1,49 @@
+# unipADS2023_2
+Repositorio de trabalhos unip ADS 2023
+
+HTML e o seu uso
+HTML, sigla para HyperText Markup Language (Linguagem de Marcação de Hipertexto), é a linguagem fundamental para a criação e estruturação de páginas web. 
+Desenvolvida para ser interpretada pelos navegadores, o HTML permite a criação de documentos que consistem em texto, imagens, links e outros elementos multimídia, tudo isso organizado por meio de marcações (tags) que definem a estrutura e o conteúdo da página.
+Em resumo, o HTML é a base da construção de páginas web, permitindo aos desenvolvedores criar estruturas e conteúdo que os navegadores podem interpretar e exibir.
+Ao combinar HTML com CSS e JavaScript, é possível criar páginas web interativas e visualmente atraentes
+
+O HTML5 é a quinta versão da linguagem de marcação HTML e trouxe uma série de melhorias e recursos avançados para a criação de páginas web mais ricas e interativas.
+Em relação às diferenças entre os navegadores e seus motores, vou fornecer algumas informações gerais sobre os principais motores de navegador e suas características específicas em relação ao suporte ao HTML5.
+No entanto, devido à limitação de não aceitar blogs como fonte, não poderei citar fontes específicas.
+
+Vale destacar que o mercado de navegadores está em constante evolução, com atualizações frequentes que melhoram o suporte a padrões e recursos.
+O uso de prefixos específicos para cada navegador (como -webkit-, -moz-, -ms-, etc.) é comum para lidar com propriedades CSS ainda não padronizadas. Ao desenvolver para a web, é importante consultar documentações atualizadas e verificar a 
+compatibilidade dos recursos desejados com base nas necessidades do projeto.
+WebKit/Blink (utilizado no Google Chrome e derivados):
+
+O WebKit é um motor de renderização de código aberto que inicialmente estava presente no Safari, mas o Google fez um fork dele para criar o Blink, que é usado no Google Chrome.
+Tanto o WebKit quanto o Blink têm sido conhecidos por implementar recursos do HTML5 de forma avançada e rápida.
+Possuem bom suporte a animações CSS, elementos de mídia como áudio e vídeo, bem como a maioria das APIs do HTML5.
+Gecko (utilizado no Mozilla Firefox):
+
+O motor de renderização Gecko é utilizado pelo Mozilla Firefox.
+O Firefox é reconhecido por seu comprometimento com os padrões web e, geralmente, possui um bom suporte ao HTML5 e suas APIs.
+É conhecido por oferecer suporte mais cedo a certos recursos experimentais.
+Trident (utilizado no Internet Explorer até a versão 11):
+
+O motor Trident foi usado nas versões mais antigas do Internet Explorer.
+Historicamente, o Internet Explorer enfrentou desafios no suporte a padrões modernos, incluindo o HTML5. Versões mais recentes melhoraram o suporte, mas ainda não estavam no mesmo nível que outros navegadores.
+EdgeHTML (utilizado no Microsoft Edge até a versão 18):
+
+O Microsoft Edge usava o motor de renderização EdgeHTML, que era uma evolução do Trident, com melhorias de suporte a padrões e performance.
+O EdgeHTML também fez progressos no suporte ao HTML5, mas ainda enfrentou desafios em comparação com outros motores.
+
+referencia: Jackson, eduard.HTML standard. 9 set. 2023. Disponivel em HTML Standard (whatwg.org). acesso em: 14 ago. 2023.
+
+codigo exemplo:
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+<h1> ola mundo </h1>
+
+        <body>
+            <font color="grey"> acho que estou pronto para o tal do full stack</font>
+
+        </body>
+    </head>
+</html>
