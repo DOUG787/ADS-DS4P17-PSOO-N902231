@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1>Trabalho 3 de 5</h1>
+    <h2>Disciplina Desenvolvimento para internet</h2>
+   <ol><h3>Este trabalho contém tags conhecidas,como:</h3></ol>
+    <ul>
+        <li>Paragrafo</li>
+        <li>Títulos</li>
+        <li>Espaçamento "br"</li>
+        <li>Entre outros...</li>
+    </ul>
+
+    <h2>O que será valido ?</h2>
+    
+    <ol>
+        <li>Uso correto das tags</li>
+        <li>Upload do projeto no github</li>
+        <li>Período correto de entrega</li>
+        <li>Qualidade do projeto</li>
+    </ol>
+
+    <h2>Não esuqueça dos dados para sua identificação:</h2>
+    
+        <table><table border="2px">
+            <tr><!--titulos-->
+                <th>Nome</th>
+                <th>RA</th>
+                <th>Turma</th>
+            </tr>
+            <tr><!--linhas-->
+                <td>Douglas henrique</td>
+                <td>N902231</td>
+                <td>DS4P17</td>
+            </tr>
+         </table>
+    <h2>Só pra não esquecer...</h2>
+    <p>Insira uma imagem pequena (máximo 300x300 pixels)</p>
+    <img src="_img/logo-UNIP.png" alt="logo unip" width="300" height="150">
+
+</body>
+</html>
