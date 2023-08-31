@@ -1,0 +1,30 @@
+Tags no HTML5 são elementos que permitem estruturar e organizar o conteúdo de uma página da web. Elas são representadas por códigos delimitados por chevron (<>), 
+onde a primeira parte é a tag de abertura e a última é a tag de fechamento, com um nome que indica a função da tag. 
+Tags podem conter atributos que fornecem informações adicionais sobre o elemento.
+
+
+
+As tags podem ser agrupadas em categorias, como:
+
+Estrutura básica: Tags como <html>, <head>, <title> e <body> ajudam a definir a estrutura básica de uma página.
+
+Texto: Tags como <p>, <h1> a <h6>, <strong>, <em> e <span> são usadas para formatar e estruturar o texto.
+
+Links e âncoras: A tag <a> é usada para criar links para outras páginas ou recursos. O atributo href especifica o destino do link.
+
+Listas: Tags como <ul>, <ol> e <li> são usadas para criar listas não ordenadas, ordenadas e seus itens, respectivamente.
+
+Imagens: A tag <img> é usada para incorporar imagens na página. O atributo src especifica o caminho da imagem.
+
+Formulários: Tags como <form>, <input>, <textarea> e <button> são usadas para criar formulários interativos, permitindo que os usuários enviem dados para o servidor.
+
+Multimídia: Tags como <audio> e <video> permitem incorporar conteúdo de áudio e vídeo na página.
+
+Tabelas: Tags como <table>, <tr>, <th> e <td> são usadas para criar tabelas e definir suas células.
+
+Estilização: Tags como <style> e <link> são usadas para adicionar estilos CSS à página, enquanto a tag <script> é usada para incorporar scripts JavaScript.
+
+Meta informações: Tags como <meta> fornecem informações sobre a página, como a codificação de caracteres, descrição e palavras-chave para mecanismos de busca.
+
+O HTML5 introduziu várias novas tags e recursos, como tags semânticas (como <header>, <nav>, <article>, <footer>) que ajudam a estruturar o conteúdo de maneira mais significativa para os motores de busca e a acessibilidade. 
+O uso apropriado de tags HTML5 é fundamental para criar páginas da web bem organizadas e otimizadas para uma variedade de dispositivos e plataformas.
