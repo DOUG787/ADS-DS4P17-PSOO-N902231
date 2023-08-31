@@ -1,0 +1,24 @@
+using System;
+
+namespace ConfirmacaoRA
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Digite o seu RA: ");
+            string inputRA = Console.ReadLine();
+
+            string raPadrao = "20231234"; // Valor pré-definido
+
+            if (inputRA == raPadrao)
+            {
+                Console.WriteLine("RA confirmado. Acesso concedido.");
+            }
+            else
+            {
+                Console.WriteLine("RA inválido. Acesso negado.");
+            }
+        }
+    }
+}
